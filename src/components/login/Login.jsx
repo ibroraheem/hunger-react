@@ -14,7 +14,7 @@ export default class Login extends React.Component {
                         <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Enter Email" />
                     </div>
                     <div class="mb-3">
-                        <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+                        <label for="password" class="form-label">Password</label>
                         <input type="password" class="form-control" placeholder="Enter Password" />
                     </div>
                     <div class="mb-3">
