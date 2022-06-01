@@ -7,7 +7,7 @@ export default class Navbar extends React.Component {
         return (
             <nav className="navbar navbar-expand-lg navbar-light bg-danger">
                 <div className="container-fluid">
-                    <img src={logo} alt="" className="nav-brand logo" />
+                    <Link to="/"><img src={logo} alt="" className="nav-brand logo" /></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                         aria-label="Toggle navigation">
