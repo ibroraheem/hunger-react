@@ -1,0 +1,17 @@
+.help {
+    background: url("../img/feeding.jpg");
+    color:black;
+}
+
+.but {
+    background-color: #333333;
+    border: solid #EEA412 2px !important;
+}
+
+.coll {
+    border: white solid 3px;
+    background: inherit;
+}
+.bg-secondary{
+    background-color: #f1f1f1 !important;
+}
